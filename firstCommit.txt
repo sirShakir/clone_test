@@ -1,1 +1,1 @@
-We are learning about Git today. 2
+This is an update to my text file.
